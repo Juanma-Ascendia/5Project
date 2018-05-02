@@ -1,0 +1,25 @@
+.bienvenido-i{
+	display: block;
+    text-align: center;
+    font-size: 140%;
+    font-weight: bold;
+    font-family: sans-serif;
+	margin-top:70px;
+	color:#444;
+}
+
+.tabla-i{
+	margin: 0 auto;
+	color: #444;
+}
+
+.img-i{
+	width:100px;
+	height:auto;
+	display:inline;
+
+}
+
+.error-i h1{
+	text-align:center;
+}
