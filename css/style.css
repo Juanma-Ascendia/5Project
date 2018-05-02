@@ -1,3 +1,58 @@
+
+.franja-j{
+	height:auto;
+    overflow: hidden;
+    background-color: #2a5d84;
+    font-family: "Helvetica Neue";
+    }
+
+.menu_J{
+    
+    overflow: hidden;
+	float: right;
+	box-sizing:border-box;
+	height:auto;
+        
+}
+.menu_J ul{
+	list-style: none;
+	margin:0;
+
+}
+.menu_J ul li{
+display: inline-block;
+margin:0;
+}
+
+.menu_J li a {
+    display: inline-block;
+    color: white;    
+    padding:25px 16px;
+    text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+.menu_J li a:hover {
+    background-color: #1f3c52;
+}
+.logo_J{
+	box-sizing:border-box;
+	float:left;
+	height:auto;
+	padding:25px;
+}
+
+.logo_J a{
+	color: white;
+	text-decoration: none;
+	 padding:25px 16px;
+	
+}
+
+.logo_J a:hover{
+	background-color: #1f3c52;
+}
+
 .bienvenido-i{
 	display: block;
     text-align: center;
@@ -23,3 +78,4 @@
 .error-i h1{
 	text-align:center;
 }
+
