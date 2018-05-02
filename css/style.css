@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .franja-j{
 	height:auto;
     overflow: hidden;
@@ -51,3 +52,30 @@ margin:0;
 .logo_J a:hover{
 	background-color: #1f3c52;
 }
+=======
+.bienvenido-i{
+	display: block;
+    text-align: center;
+    font-size: 140%;
+    font-weight: bold;
+    font-family: sans-serif;
+	margin-top:70px;
+	color:#444;
+}
+
+.tabla-i{
+	margin: 0 auto;
+	color: #444;
+}
+
+.img-i{
+	width:100px;
+	height:auto;
+	display:inline;
+
+}
+
+.error-i h1{
+	text-align:center;
+}
+>>>>>>> ccd54f3b678d915032af3cb4b9b4ed56f8e82a6d
