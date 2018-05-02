@@ -22,6 +22,7 @@
   <link rel="stylesheet" href="css/normalize.css">
   <link rel="stylesheet" href="css/skeleton.css">
   <link rel="stylesheet" href="css/faqs.css">
+  <link rel="stylesheet" href="css/style.css">
   <!-- Favicon
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
   <link rel="icon" type="image/png" href="images/favicon.png">
@@ -33,7 +34,7 @@
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
   <?php include 'includes/header.php'?>
   <div class="gris-cl">
-    <div class="letras-cl"><h1><b>Windows</b>Frequently Asked Questions</h1>
+    <div class="letras-cl"><h1><b>Windows </b>Frequently Asked Questions</h1>
   </div>
 </div>
   <div class="container">
