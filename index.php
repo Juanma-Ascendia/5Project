@@ -65,7 +65,7 @@
       <div class="twelve columns cuerpo-jm">
 
           <h3>Welcome to XAMPP for Windows 7.2.4</h3>
-          <p class="parrafos-jm">You have successfully installed XAMPP on this system! Now you can start using Apache, MariaDB, PHP and other components. You can find more info in the <a class="tanslate-jm" href="faqs.php">FAQs</a> section or check the <a class="tanslate-jm" href="guides.php">HOW-TO Guides</a> for getting started with PHP applications.</p>
+          <p class="parrafos-jm">You have successfully installed XAMPP on this system! Now you can start using Apache, MariaDB, PHP and other components. You can find more info in the <a class="tanslate-jm" href="faq.php">FAQs</a> section or check the <a class="tanslate-jm" href="guides.php">HOW-TO Guides</a> for getting started with PHP applications.</p>
           <p class="parrafos-jm">XAMPP is meant only for development purposes. It has certain configuration settings that make it easy to develop locally but that are insecure if you want to have your installation accessible to others. If you want have your XAMPP accessible from the internet, make sure you understand the implications and you checked the <a class="tanslate-jm" href="faqs.php">FAQs</a> to learn how to protect your site. Alternatively you can use <a class="tanslate-jm" href="">WAMP</a>, <a class="tanslate-jm" href="">MAMP</a> or <a class="tanslate-jm" href="">LAMP</a> which are similar packages which are more suitable for production.</p>
           <p class="parrafos-jm">Start the XAMPP Control Panel to check the server status.</p>
 
