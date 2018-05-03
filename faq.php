@@ -22,7 +22,7 @@
   <link rel="stylesheet" href="css/normalize.css">
   <link rel="stylesheet" href="css/skeleton.css">
   <link rel="stylesheet" href="css/faqs.css">
-  <link rel="stylesheet" href="css/style.css">
+  <!--<link rel="stylesheet" href="css/style.css">-->
   <!-- Favicon
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
   <link rel="icon" type="image/png" href="images/favicon.png">
@@ -32,14 +32,14 @@
 
   <!-- Primary Page Layout
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-  <?php include 'includes/header.php'?>
+  <?php include 'includes/header.php' ?>
   <div class="gris-cl">
     <div class="letras-cl"><h1><b>Windows </b>Frequently Asked Questions</h1>
   </div>
 </div>
   <div class="container">
     <div class="row">
-      <div class="one-half column" style="margin-top: 5%">
+      <div class="twelve column" style="margin-top: 5%">
         <div class="frases-cl">
         <h5><a href="#">How do I install XAMPP?</a></h5>
         <h5><a href="#">Does XAMPP include MySQL or MariaDB?</a></h5>
