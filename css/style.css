@@ -221,7 +221,9 @@ margin:0;
   padding-bottom: 500px;
   }
 
-
+.linea{
+	border-bottom: 1px solid #efeee5;
+}
 
   .gris-c {
   font-family: "Helvetica Neue", "Helvetica", Arial, sans-serif;
@@ -235,14 +237,6 @@ margin:0;
   padding-left: 225px;
 }
 
-.container {
-  position: relative;
-  width: 100%;
-  max-width: 960px;
-  margin: 0 auto;
-  padding: 0 20px;
-  
-   }
 
 .frases-c a{
   text-decoration: none;
