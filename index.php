@@ -79,7 +79,7 @@
           <h4>Install applications on XAMPP using Bitnami</h4>
           <p class="parrafos-jm">Apache Friends and Bitnami are cooperating to make dozens of open source applications available on XAMPP, for free. Bitnami-packaged applications include Wordpress, Drupal, Joomla! and dozens of others and can be deployed with one-click installers. Visit the <a class="tanslate-jm" href="">Bitnami XAMPP page</a> for details on the currently available apps.</p>
 
-          <img src="images/bitnami-xampp.png" alt="Logos" class="img-final-jm">
+          <a href=""><img src="images/bitnami-xampp.png" alt="Logos" class="img-final-jm"></a>
         
       </div>
     </div>
