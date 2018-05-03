@@ -196,3 +196,57 @@ margin:0;
 #cuerpo-v{
 	padding-top:25px;
 }
+
+/*CAMBIOS CARLOS*/
+
+
+
+.gris-cl {
+  font-family: "Helvetica Neue", "Helvetica", Arial, sans-serif;
+  background-color: #efeee5;
+  color: /*#555555*/ black;
+  height: 100px; 
+}
+
+.letras-cl{
+  padding-top: 15px;
+  padding-left: 225px;
+}
+
+
+.frases-cl a/*:hover*/{
+  text-decoration: none;
+  font-family: "Helvetica Neue", "Helvetica", Arial, sans-serif;
+  color: #555555;
+  padding-bottom: 500px;
+  }
+
+
+
+  .gris-c {
+  font-family: "Helvetica Neue", "Helvetica", Arial, sans-serif;
+  background-color: #efeee5;
+  color: /*#555555*/ black;
+  height: 100px; 
+}
+
+.letras-c{
+  padding-top: 15px;
+  padding-left: 225px;
+}
+
+.container {
+  position: relative;
+  width: 100%;
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 0 20px;
+  
+   }
+
+.frases-c a{
+  text-decoration: none;
+  font-family: "Helvetica Neue", "Helvetica", Arial, sans-serif;
+  color: #5e8949;
+  padding-bottom: 500px;
+}

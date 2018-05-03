@@ -21,7 +21,6 @@
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
   <link rel="stylesheet" href="css/normalize.css">
   <link rel="stylesheet" href="css/skeleton.css">
-  <link rel="stylesheet" href="css/guides.css">
   <link rel="stylesheet" href="css/style.css">
   <!-- Favicon
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
@@ -32,13 +31,13 @@
 
   <!-- Primary Page Layout
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-  <?php include 'includes/header.php'?>
+  <?php include 'includes/header.php' ?>
   <div class="gris-c">
     <div class="letras-c"><h1><b>Windows</b> HOW-TO Guides</h1>
   </div>
   <div class="container">
     <div class="row">
-      <div class="one-half column" style="margin-top: 5%">
+      <div class="twelve columns" style="margin-top: 5%">
         <div class="frases-c">
         <h5><a href="#">Backup and Restore MySQL/MariaDB Databases</a></h5>
         <h5><a href="#">Configure FTP Access</a></h5>
