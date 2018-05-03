@@ -21,7 +21,6 @@
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
   <link rel="stylesheet" href="css/normalize.css">
   <link rel="stylesheet" href="css/skeleton.css">
-  <link rel="stylesheet" href="css/estilos-jm.css">
   <link rel="stylesheet" href="css/style.css">
 
 
@@ -62,7 +61,7 @@
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
 
 
-  <div class="container">
+  <div class="container contenedor-jm">
     <div class="row">
       <div class="twelve columns cuerpo-jm">
 
