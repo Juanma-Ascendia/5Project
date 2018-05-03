@@ -31,7 +31,9 @@
 
 <?php
 include 'includes/header.php';
-phpinfo();
+?>
+<!--iframe src="phpinfo.php" frameborder="0" height="" width="1200px"></iframe-->
+<?php
 include 'includes/footer.php';
 ?>
 
