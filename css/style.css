@@ -172,9 +172,7 @@ margin:0;
 	text-decoration: none;
 	color: #7b7b7b;
 }
-.menu-jm img{
-	padding-top: 10px;
-}
+
 
 
 /*---------Copyright----------*/
@@ -183,7 +181,6 @@ margin:0;
 
 .copy-jm{
 	float: right;
-	padding-top: 10px;
 }
 .copy-jm p{
 	color: #7b7b7b;
