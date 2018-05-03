@@ -3,7 +3,7 @@
 <div class="franja-j">
 	<div class="container">
 	<div class="logo_J">
-		<a href="">Apache Friends</a>
+		<a href="index.php">Apache Friends</a>
 	</div>
 	<nav class="menu_J">
 		<ul>
