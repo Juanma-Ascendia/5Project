@@ -6,7 +6,7 @@
   <!-- Basic Page Needs
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
   <meta charset="utf-8">
-  <title>Applications/title>
+  <title>Applications</title>
   <meta name="description" content="">
   <meta name="author" content="">
 
