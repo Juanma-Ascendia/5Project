@@ -40,20 +40,20 @@
   padding-left: 225px;
 }
 
-/*.container {
+.container {
   position: relative;
   width: 100%;
   max-width: 960px;
   margin: 0 auto;
   padding: 0 20px;
-  box-sizing: border-box; }*/
+  box-sizing: border-box; }
 
-.frases-cl a{
+.frases-cl a:hover{
   text-decoration: none;
   font-family: "Helvetica Neue", "Helvetica", Arial, sans-serif;
   color: #555555;
   padding-bottom: 500px;
-  border-bottom: 1px solid #ddd;
+  /*border-bottom: 1px solid #ddd;*/
   
 }
 .column,
