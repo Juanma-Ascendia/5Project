@@ -35,10 +35,10 @@
 <?php include 'includes/header.php'; ?>
 
 
-
-	<div id="cuerpo">
-		<div id="text1">
-
+<div class="container">
+	<div id="cuerpo-v">
+		<div id="text1-v">
+  
 			<p>Apache Friends and Bitnami are cooperating to make dozens of open source applications available on XAMPP, for free. Bitnami-packaged applications include Wordpress, Drupal, Joomla! and dozens of others and can be deployed with one-click installers.Visit the <a href="https://bitnami.com/stack/xampp?utm_source=bitnami&utm_medium=installer&utm_campaign=XAMPP%2BModule">Bitnami XAMPP page</a> for details on the currently available apps.</p>
 
 			<br>
@@ -47,7 +47,8 @@
 			
 			<br>			
 
-				<p style="background: #FFFACD;  border: 1px solid #FF6347; padding: 5px">We are working on making Bitnami add-ons available for PHP 7, it is possible the current add-ons do not work well with this version.</p>
+				<p class="p-valentin">We are working on making Bitnami add-ons available for PHP 7, it is possible the current add-ons do not work well with this version.</p>
+</div>
 
 
 		</div>

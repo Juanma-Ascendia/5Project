@@ -190,4 +190,12 @@ margin:0;
 }
 
 /*----------------------------*/
-/*----------------------------*/
+/*------------estilos valentin----------------*/
+
+.p-valentin{
+	background: #FFFACD;  border: 1px solid #FF6347; padding: 5px
+}
+
+#cuerpo-v{
+	padding-top:25px;
+}
